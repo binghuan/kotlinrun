@@ -1,5 +1,5 @@
 # kotlinrun
-<img style="height:250px" src="./Icon.png"/>
+![](./Icon.png)
 
 It's a shell script to compile a Kotlin fie and run it directly.
 
